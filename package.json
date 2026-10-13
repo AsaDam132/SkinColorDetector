@@ -1,0 +1,14 @@
+{
+  "name": "damilola-skin-color-detector",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Skin tone detector with sun-safety guidance (React frontend + Node backend).",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "install:all": "npm --prefix frontend install",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "npm --prefix backend run start",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix backend run start"
+  }
+}

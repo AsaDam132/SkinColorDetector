@@ -1,0 +1,11 @@
+{
+  "name": "skin-color-detector-backend",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Dataset catalog and skin-tone classification API. No dependencies.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

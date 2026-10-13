@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+.claude/
+
+# Third-party portrait photos (not licensed for redistribution). Add your own to run the moving gallery locally.
+frontend/public/people/
